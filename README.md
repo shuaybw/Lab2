@@ -24,13 +24,9 @@ PORT=3000
 MONGO_URI=your_mongodb_connection_string 
 HOSTNAME = "localhost"
 ```
-6.Start the Node server by running node server.js 
+6.Start the application
 ```bash
 node server.js
-```
-6. start the application
-```bash
-npm start
 ```
 7 start the server in another shell
 ```bash
