@@ -1,1 +1,11 @@
-console.log("Hello World!");
+import React from "react";
+import { createRoot } from "react-dom/client";
+import App from "./App";
+
+const rootElement = document.getElementById("index");
+
+
+const root = createRoot(rootElement);
+
+
+root.render(<App />);
