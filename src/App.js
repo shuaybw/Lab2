@@ -19,7 +19,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className="container">
       <h1>Project Assignments</h1>
       <table>
         <thead>
