@@ -7,7 +7,7 @@ Git clone https://github.com/shuaybw/Lab-2.git
 ```
 2. Change to the project directory
 ```bash
-cd Labb1
+cd Labb-2
 ```
 3.Install Dependencies
 ```bash
