@@ -1,4 +1,3 @@
-# Lab-2
 ## Installation
 
 1. **Clone the repository:**
@@ -7,7 +6,7 @@ Git clone https://github.com/shuaybw/Lab-2.git
 ```
 2. Change to the project directory
 ```bash
-cd Labb-2
+cd Labb2
 ```
 3.Install Dependencies
 ```bash
