@@ -15,7 +15,8 @@ const App = () => {
     const response = await axios.get(
       "http://localhost:3000/api/project_assignments"
     );
-    setAssignments(response.data);
+    const sortedData = response.data.sort((a, b) => a.employee_id - b.employee_id);
+    setAssignments(sortedData);
   };
 
   return (
